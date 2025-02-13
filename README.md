@@ -10,6 +10,7 @@
 
 
 # How to install (Cause im not to lazy to make this!!!)
+# (Or it is unnecessary lol)
 ## Windows 
 Run the .exe (Windows isnt why i made this
 ## Linux
